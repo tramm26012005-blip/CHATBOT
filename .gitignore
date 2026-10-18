@@ -1,0 +1,13 @@
+# Môi trường ảo
+.venv/
+.venv_uv_cu/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / hệ điều hành
+.vscode/
+Thumbs.db
+desktop.ini
+~$*

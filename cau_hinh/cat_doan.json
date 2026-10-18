@@ -1,0 +1,13 @@
+{
+  "ten_mo_hinh": "bkai-foundation-models/vietnamese-bi-encoder",
+  "gioi_han_token_mo_hinh": 256,
+  "nguon_gioi_han_token": "sentence_bert_config.json: max_seq_length = 256 (tokenizer.model_max_length không đặt, config.max_position_embeddings = 258 = 256 + 2)",
+  "can_tach_tu": true,
+  "kich_thuoc_doan": 400,
+  "chong_lan": 50,
+  "du_phong_token": 8,
+  "nguong_muc_ngan_token": 80,
+  "nguong_doan_ngan_ky_tu": 40,
+  "nguong_ty_le_chu_so": 0.5,
+  "seed": 42
+}

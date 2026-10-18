@@ -1,0 +1,70 @@
+canh chua
+cá lóc
+cá linh
+cá kèo
+cá rô đồng
+kho tộ
+lẩu mắm
+bánh xèo
+bánh tét
+bánh khọt
+bông điên điển
+bông so đũa
+nước mắm
+nước dừa
+nước cốt dừa
+mắm ruốc
+mắm cá linh
+hành phi
+tỏi phi
+ớt hiểm
+rau răm
+ngò gai
+bạc hà
+me chua
+đường thốt nốt
+bột ngọt
+hạt nêm
+nướng trui
+chiên giòn
+luộc sơ
+ướp gia vị
+chất đạm
+chất béo
+chất xơ
+tinh bột
+vitamin C
+kinh nguyệt
+tiểu đường
+huyết áp
+# --- bổ sung: các cụm lặp nhiều trong dataset mà underthesea để rời (dòng bắt đầu bằng # bị bỏ qua)
+muỗng canh
+muỗng cà phê
+miền Tây
+hành tím
+hành lá
+tỏi băm
+món ăn
+dầu ăn
+rau sống
+rau xanh
+cơm trắng
+nước dùng
+nước lọc
+nước sôi
+nước màu
+nước chấm
+nước muối
+nước dừa tươi
+thịt bò
+thịt heo
+thịt ba chỉ
+ba chỉ
+đậu hũ
+bông súng
+bữa ăn
+bữa cơm
+rửa sạch
+tắt bếp
+vừa ăn
+ăn kèm

@@ -1,0 +1,117 @@
+{
+  "ngay_tao": "2026-10-08",
+  "file_nguon": "câu hoi .csv",
+  "tong_so_dong_hop_le": 993,
+  "so_dong_trong_da_bo": 28,
+  "so_cau_tra_loi_da_sua_dau_cham": 9,
+  "nhom": [
+    {
+      "folder": "01_chao_hoi",
+      "ten_nhom": "Chào hỏi, cảm ơn, tạm biệt",
+      "so_cau": 40,
+      "train": 32,
+      "test": 8,
+      "id_min": 1,
+      "id_max": 40
+    },
+    {
+      "folder": "02_huong_dan_nau_an",
+      "ten_nhom": "Hướng dẫn nấu ăn",
+      "so_cau": 100,
+      "train": 80,
+      "test": 20,
+      "id_min": 191,
+      "id_max": 290
+    },
+    {
+      "folder": "03_huong_dan_nau_mon_mien_tay",
+      "ten_nhom": "Hướng dẫn nấu món ăn miền Tây",
+      "so_cau": 150,
+      "train": 120,
+      "test": 30,
+      "id_min": 41,
+      "id_max": 190
+    },
+    {
+      "folder": "04_mon_an_mien_tay",
+      "ten_nhom": "Món ăn miền Tây",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 531,
+      "id_max": 610
+    },
+    {
+      "folder": "05_nguyen_lieu_gia_vi",
+      "ten_nhom": "Nguyên liệu và gia vị",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 291,
+      "id_max": 370
+    },
+    {
+      "folder": "06_thay_the_nguyen_lieu",
+      "ten_nhom": "Thay thế nguyên liệu",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 371,
+      "id_max": 450
+    },
+    {
+      "folder": "07_dieu_chinh_cong_thuc",
+      "ten_nhom": "Phân tích và điều chỉnh công thức",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 451,
+      "id_max": 530
+    },
+    {
+      "folder": "08_dinh_duong",
+      "ten_nhom": "Dinh dưỡng trong ăn uống",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 611,
+      "id_max": 690
+    },
+    {
+      "folder": "09_goi_y_mon_theo_dinh_duong",
+      "ten_nhom": "Gợi ý món ăn theo nhu cầu dinh dưỡng",
+      "so_cau": 80,
+      "train": 64,
+      "test": 16,
+      "id_min": 691,
+      "id_max": 770
+    },
+    {
+      "folder": "10_bao_quan_che_bien",
+      "ten_nhom": "Bảo quản và chế biến thực phẩm",
+      "so_cau": 78,
+      "train": 64,
+      "test": 14,
+      "id_min": 916,
+      "id_max": 993
+    },
+    {
+      "folder": "11_an_toan_thuc_pham",
+      "ten_nhom": "An toàn thực phẩm",
+      "so_cau": 75,
+      "train": 59,
+      "test": 16,
+      "id_min": 841,
+      "id_max": 915
+    },
+    {
+      "folder": "12_goi_y_khi_om_met",
+      "ten_nhom": "Gợi ý ăn uống khi cảm, ho, sốt, mệt mỏi hoặc trong thời kỳ kinh nguyệt",
+      "so_cau": 70,
+      "train": 56,
+      "test": 14,
+      "id_min": 771,
+      "id_max": 840
+    }
+  ]
+}
