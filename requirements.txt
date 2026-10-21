@@ -1,2 +1,17 @@
+# Tách từ, tách đoạn (Bài 3, Bài 4 – Phần I)
 underthesea==9.5.0
 transformers==5.19.0
+
+# Sinh vector và kho vector (Bài 4 – Phần II)
+# torch bản CPU: pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+numpy==2.5.4
+tqdm==4.70.1
+
+# Cấu hình và khóa bí mật
+python-dotenv==1.2.4
+
+# Giao diện web (Giai đoạn 4)
+streamlit==1.66.0

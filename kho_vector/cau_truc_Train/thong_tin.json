@@ -1,0 +1,22 @@
+{
+  "ten_mo_hinh": "bkai-foundation-models/vietnamese-bi-encoder",
+  "so_chieu": 768,
+  "so_doan": 975,
+  "ngay_tao": "2026-10-18T15:16:39",
+  "cach_cat": "cau_truc",
+  "tap": "Train",
+  "dau_vao": "data/doan/doan_cau_truc.jsonl",
+  "hash_dau_vao_sha256": "4475c7f3a17a41d0c5745693d6926aa2de9e90e599caaa1349f9d7f2facc8048",
+  "truong_dua_vao_mo_hinh": "noi_dung_kem_tieu_de_tach_tu",
+  "tien_to_doan": "",
+  "tien_to_cau_hoi": "",
+  "chuan_hoa": "L2",
+  "do_do": "cosine (tích vô hướng trên vector chuẩn hóa)",
+  "loai_index": "faiss.IndexFlatIP",
+  "phien_ban": {
+    "faiss-cpu": "1.15.1",
+    "sentence-transformers": "6.1.0",
+    "torch": "2.14.1+cpu",
+    "numpy": "2.5.4"
+  }
+}

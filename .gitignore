@@ -11,3 +11,10 @@ __pycache__/
 Thumbs.db
 desktop.ini
 ~$*
+
+# Khóa bí mật
+.env
+
+# Bộ đệm vector (sinh lại được) và nhật ký hội thoại
+kho_vector/_bo_dem/
+logs/

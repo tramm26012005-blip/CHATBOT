@@ -1,0 +1,43 @@
+{
+  "cau_hinh_cat_doan": "cau_hinh/tach_doan.json",
+  "thu_muc_doan": "data/doan",
+  "thu_muc_kho": "kho_vector",
+  "cach_cat": "cau_truc",
+  "kho_vector": "kho_vector/cau_truc_tat_ca",
+  "tien_to_cau_hoi": "",
+  "tien_to_doan": "",
+  "batch_size": 32,
+  "so_cau_mau_kiem_tra": [
+    "cách nấu hủ tiếu Mỹ Tho",
+    "món ít béo cho người tiểu đường",
+    "lẩu mắm cần nguyên liệu gì"
+  ],
+  "k": 5,
+  "candidate_k": 20,
+  "che_do_truy_hoi": "vector",
+  "rrf_k": 60,
+  "gop_theo_id_goc": true,
+  "so_luot_nho": 4,
+  "seed": 42,
+  "bm25_k1": 1.5,
+  "bm25_b": 0.75,
+  "trong_so_vector": 1.0,
+  "trong_so_bm25": 1.0,
+  "nguong_chao_hoi": 0.6,
+  "ghi_nhat_ky": true,
+  "ghi_nguyen_van_cau_hoi": false,
+  "nguong": {
+    "vector": {
+      "ngoai_pham_vi": 0.382,
+      "tin_cay": 0.632
+    },
+    "bm25": {
+      "ngoai_pham_vi": 0.345,
+      "tin_cay": 0.382
+    },
+    "khong_dau": {
+      "ngoai_pham_vi": 0.209,
+      "tin_cay": 0.47
+    }
+  }
+}
